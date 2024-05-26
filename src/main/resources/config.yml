@@ -21,8 +21,8 @@ spawn:
 resource:
   enable: true
 
-  url: "https://hub.fastgit.xyz/lRENyaaa/RYServerTexture/releases/download/v1.1/Pack.zip"
-  hash: "2fa9b5326e064b24499edcf9569a3c466bd739ae"
+  url: "https://mirror.ghproxy.com/github.com/xMikux/Slimefun-Resourcepack/releases/download/latest-build/Slimefun-ResourcePack.zip"
+  hash: "0526c2fb7f4241ac5558abdc715210a2a3804358"
 
 
 protect:
